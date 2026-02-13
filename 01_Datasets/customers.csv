@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,date_of_birth,gender,city,state,join_date
+1001,Sara,Johnson,1985-03-12,F,Baltimore,MD,2020-01-15
+1002,Michael,Brown,1978-07-22,M,Silver Spring,MD,2019-11-03
+1003,Linda,Garcia,1990-05-09,F,Washington,DC,2021-06-20
+1004,David,Lee,1982-12-01,M,Arlington,VA,2018-09-10
+1005,Emily,Davis,1995-02-18,F,Bethesda,MD,2022-03-05

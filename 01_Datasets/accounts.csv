@@ -1,0 +1,7 @@
+account_id,customer_id,account_type,open_date,status,branch,credit_limit
+2001,1001,Checking,2020-01-16,Active,Baltimore,0
+2002,1001,Credit Card,2021-04-10,Active,Baltimore,5000
+2003,1002,Savings,2019-11-05,Active,Silver Spring,0
+2004,1003,Checking,2021-06-21,Active,Washington DC,0
+2005,1004,Loan,2018-09-15,Closed,Arlington,15000
+2006,1005,Checking,2022-03-06,Active,Bethesda,0
